@@ -5,6 +5,7 @@ using namespace std;
 
 int main() {
     double a, b, c;
+    //Введіть сторони трикутника
     cout << "Введіть сторони трикутника a, b, c: ";
     cin >> a >> b >> c;
 
